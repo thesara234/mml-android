@@ -1,0 +1,7 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp" android:viewportWidth="108" android:viewportHeight="108">
+    <!-- red tile with a kupesi (triangle) band and an M -->
+    <path android:fillColor="#C1121F" android:pathData="M30,30h48v48h-48z"/>
+    <path android:fillColor="#40FFFFFF" android:pathData="M30,78l6,-9l6,9l6,-9l6,9l6,-9l6,9l6,-9l6,9z"/>
+    <path android:fillColor="#FFFFFF" android:pathData="M39,63V41h5l6,10l6,-10h5v22h-5V50l-6,9.5l-6,-9.5v13z"/>
+</vector>
